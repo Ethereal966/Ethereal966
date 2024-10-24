@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Ethereal966
+- 👋 Hi, I’m @Ethereal966.
 - 👀 I’m interested in: Web Development, Mobile & Desktop App Development, Malware Analysis.
-- 🌱 I’m currently learning: Rust
-- 😄 Pronouns: He/Him
+- 🌱 I’m currently learning: Rust and Java.
+- 😄 Pronouns: He/Him.
+- 🧠 I know: C#, JavaScript, TypeScript, HTML, CSS.
