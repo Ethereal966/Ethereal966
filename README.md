@@ -2,4 +2,4 @@
 - 👀 I’m interested in: Web Development, Mobile & Desktop App Development, Malware Analysis.
 - 🌱 I’m currently learning: Rust and Java.
 - 😄 Pronouns: He/Him.
-- 🧠 I know: C#, JavaScript, TypeScript, HTML, CSS.
+- 🧠 I know: C#, Java, JavaScript, TypeScript, HTML, CSS.
