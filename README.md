@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ethereal966. Sophomore student at PMU
+- 👋 Hi, I’m @Ethereal966. Sophomore CE student at PMU
 - 👀 I’m interested in: Web Development, Mobile & Desktop App Development, Malware Analysis.
 - 🌱 I’m currently learning: Rust and Java.
 - 😄 Pronouns: He/Him.
